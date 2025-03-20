@@ -1,5 +1,5 @@
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello, this is updated");
+        System.out.println("Hello, this is from feature branch");
     }
 }
